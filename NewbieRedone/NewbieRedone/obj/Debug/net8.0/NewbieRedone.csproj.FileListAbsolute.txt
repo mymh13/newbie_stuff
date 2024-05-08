@@ -1,0 +1,14 @@
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.AssemblyInfoInputs.cache
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.AssemblyInfo.cs
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.csproj.CoreCompileInputs.cache
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\bin\Debug\net8.0\NewbieRedone.exe
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\bin\Debug\net8.0\NewbieRedone.deps.json
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\bin\Debug\net8.0\NewbieRedone.runtimeconfig.json
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\bin\Debug\net8.0\NewbieRedone.dll
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\bin\Debug\net8.0\NewbieRedone.pdb
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.dll
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\refint\NewbieRedone.dll
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.pdb
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.genruntimeconfig.cache
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\ref\NewbieRedone.dll
