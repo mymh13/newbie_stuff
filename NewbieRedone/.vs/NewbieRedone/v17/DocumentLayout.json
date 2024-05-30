@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\newbieredone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|solutionrelative:newbieredone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|c:\\mymh\\hemma, it, guider etc\\programmering\\fooling around\\newbieredone\\newbieredone\\newbieredone\\numberguess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|solutionrelative:newbieredone\\numberguess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|c:\\mymh\\hemma, it, guider etc\\programmering\\fooling around\\newbieredone\\newbieredone\\newbieredone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|solutionrelative:newbieredone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\newbieredone\\catdistraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|solutionrelative:newbieredone\\catdistraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|c:\\mymh\\hemma, it, guider etc\\programmering\\fooling around\\newbieredone\\newbieredone\\newbieredone\\retirementsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\newbieredone\\retirementsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A872874C-B7B4-4394-9CA8-E112653FD4A4}|NewbieRedone\\NewbieRedone.csproj|solutionrelative:newbieredone\\retirementsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,43 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CatDistraction.cs",
+              "DocumentMoniker": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\NewbieRedone\\CatDistraction.cs",
+              "RelativeDocumentMoniker": "NewbieRedone\\CatDistraction.cs",
+              "ToolTip": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\NewbieRedone\\CatDistraction.cs",
+              "RelativeToolTip": "NewbieRedone\\CatDistraction.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:57:55.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RetirementSimulator.cs",
               "DocumentMoniker": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\NewbieRedone\\RetirementSimulator.cs",
               "RelativeDocumentMoniker": "NewbieRedone\\RetirementSimulator.cs",
               "ToolTip": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\NewbieRedone\\RetirementSimulator.cs",
               "RelativeToolTip": "NewbieRedone\\RetirementSimulator.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwDIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T21:41:32.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NumberGuess.cs",
               "DocumentMoniker": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\NewbieRedone\\NumberGuess.cs",
               "RelativeDocumentMoniker": "NewbieRedone\\NumberGuess.cs",
               "ToolTip": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\NewbieRedone\\NumberGuess.cs",
               "RelativeToolTip": "NewbieRedone\\NumberGuess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T21:40:52.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\NewbieRedone\\Program.cs",
               "RelativeDocumentMoniker": "NewbieRedone\\Program.cs",
               "ToolTip": "C:\\Mymh\\Hemma, IT, guider etc\\Programmering\\Fooling around\\NewbieRedone\\NewbieRedone\\NewbieRedone\\Program.cs",
               "RelativeToolTip": "NewbieRedone\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T21:40:05.546Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
-﻿
+﻿using System;
+
 namespace NewbieRedone
 {
     internal class Program
@@ -12,12 +13,11 @@ namespace NewbieRedone
         {
             int menuOption;
             Console.WriteLine("Welcome to the Newbie Simulator.");
-            Console.WriteLine("Here you can try the programs we wrote in our newbie progression.");
-            Console.WriteLine("Gee, how fun it will be! Or. Well. Chose one the below options:");
-            Console.WriteLine("1 - the 'Retirement simulator'");
-            Console.WriteLine("2 - the 'Numbers Guessing game'");
-            Console.WriteLine("3 - added later..");
-            Console.WriteLine("Q - Quit program (added later..)"); // when we add this, we have to adjust the int.TryParse below!
+            Console.WriteLine("Choose one of the below options:");
+            Console.WriteLine("1 - Retirement simulator");
+            Console.WriteLine("2 - Numbers Guessing game");
+            Console.WriteLine("3 - Cat Distraction");
+            Console.WriteLine("Q - Quit program");
 
             string? inputMenu = Console.ReadLine();
 
@@ -25,9 +25,15 @@ namespace NewbieRedone
             {
                 MenuOption(menuOption);
             }
+            else if (inputMenu == "Q" || inputMenu == "q")
+            {
+                Console.WriteLine("Quitting program...");
+                Environment.Exit(0); // This will close the console application
+            }
             else
             {
                 Console.WriteLine("Invalid input. Please enter a valid non-decimal number.");
+                ShowMainMenu();
             }
         }
 
@@ -35,8 +41,8 @@ namespace NewbieRedone
         {
             if (menuOption == 1)
             {
-                RetirementSimulator retirementChosen = new RetirementSimulator();
-                retirementChosen.RSStart();
+                RetirementSimulator retirementSimulator = new RetirementSimulator();
+                retirementSimulator.RSStart();
                 ShowMainMenu();
             }
             else if (menuOption == 2)
@@ -45,11 +51,16 @@ namespace NewbieRedone
                 numberGuess.NGStart();
                 ShowMainMenu();
             }
+            else if (menuOption == 3)
+            {
+                CatDistraction catDistraction = new CatDistraction();
+                catDistraction.CatStart();
+                ShowMainMenu();
+            }
             else
             {
-                Console.WriteLine("Placeholder code until corrected later.");
-                Console.WriteLine("Press any key.");
-                Console.ReadKey();
+                Console.WriteLine("Invalid choice. Please choose a valid option.");
+                ShowMainMenu();
             }
         }
     }

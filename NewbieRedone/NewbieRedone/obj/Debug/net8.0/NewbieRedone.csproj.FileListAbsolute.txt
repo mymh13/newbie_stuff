@@ -2,6 +2,7 @@ C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRe
 C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.AssemblyInfoInputs.cache
 C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.AssemblyInfo.cs
 C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.csproj.CoreCompileInputs.cache
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\obj\Debug\net8.0\NewbieRedone.sourcelink.json
 C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\bin\Debug\net8.0\NewbieRedone.exe
 C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\bin\Debug\net8.0\NewbieRedone.deps.json
 C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\NewbieRedone\NewbieRedone\NewbieRedone\bin\Debug\net8.0\NewbieRedone.runtimeconfig.json
