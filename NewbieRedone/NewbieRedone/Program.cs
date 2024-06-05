@@ -17,6 +17,7 @@ namespace NewbieRedone
             Console.WriteLine("1 - Retirement simulator");
             Console.WriteLine("2 - Numbers Guessing game");
             Console.WriteLine("3 - Cat Distraction");
+            Console.WriteLine("4 - Lotto");
             Console.WriteLine("Q - Quit program");
 
             string? inputMenu = Console.ReadLine();
@@ -38,6 +39,7 @@ namespace NewbieRedone
         }
 
         private static void MenuOption(int menuOption)
+            // I like switch-menus, maybe I should just change this to a switch system instead? Good stuff.
         {
             if (menuOption == 1)
             {
@@ -55,6 +57,12 @@ namespace NewbieRedone
             {
                 CatDistraction catDistraction = new CatDistraction();
                 catDistraction.CatStart();
+                ShowMainMenu();
+            }
+            else if (menuOption == 4)
+            {
+                LottoBalls lottoBalls = new LottoBalls();
+                lottoBalls.LottoStart();
                 ShowMainMenu();
             }
             else
