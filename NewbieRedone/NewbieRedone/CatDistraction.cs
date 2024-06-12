@@ -18,7 +18,7 @@ namespace NewbieRedone
             Console.WriteLine("2. Yes, by a big fluffy Siberian cat.");
             Console.WriteLine("3. No.");
 
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
 
             if (input == "1")
             {

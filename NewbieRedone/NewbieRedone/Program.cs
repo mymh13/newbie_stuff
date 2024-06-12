@@ -17,7 +17,17 @@ namespace NewbieRedone
             Console.WriteLine("1 - Retirement simulator");
             Console.WriteLine("2 - Numbers Guessing game");
             Console.WriteLine("3 - Cat Distraction");
-            Console.WriteLine("4 - Lotto");
+            Console.WriteLine("4 - Lotto game");
+            Console.WriteLine("5 - Heating up the sauna");
+            Console.WriteLine("6 - Bussen");
+            Console.WriteLine("7 - Savings account");
+            Console.WriteLine("8 - Temperature converter");
+            Console.WriteLine("9 - Bank account");
+            Console.WriteLine("10 - Animal heritage");
+            Console.WriteLine("11 - The Ball");
+
+
+
             Console.WriteLine("Q - Quit program");
 
             string? inputMenu = Console.ReadLine();
